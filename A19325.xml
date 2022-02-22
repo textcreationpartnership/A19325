@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Copie of a letter written by ane honorable gentleman servand to His Highnes, to a lord of His Ma[jes]ties Privie Counsale in both kingdomes from Madrid, the 5 of Apryle stilo veteri 1623.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1623</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A19325</idno>
+            <idno type="STC">STC 5742.8</idno>
+            <idno type="STC">ESTC S1682</idno>
+            <idno type="EEBO-CITATION">21468496</idno>
+            <idno type="OCLC">ocm 21468496</idno>
+            <idno type="VID">24015</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A19325)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 24015)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1708:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Copie of a letter written by ane honorable gentleman servand to His Highnes, to a lord of His Ma[jes]ties Privie Counsale in both kingdomes from Madrid, the 5 of Apryle stilo veteri 1623.</title>
+               </titleStmt>
+               <extent>[7] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Finlason ...,</publisher>
+                  <pubPlace>Edinbvrgh :</pubPlace>
+                  <date>1623.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Pertains to Prince Charles' visit to Spain in an effort to negotiate a marriage with Princess Maria.</note>
+                  <note>Reproduction of original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  James I, 1603-1625.</term>
+               <term>Great Britain --  Foreign relations --  Spain.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:24015:1" rendition="simple:additions"/>
+            <pb facs="tcp:24015:1" rendition="simple:additions"/>
+            <p>THE COPIE OF A LETTER WRITTEN BY ANE HONORABLE GENTLE<g ref="char:EOLhyphen"/>man <hi>ſervand to his</hi> HIGHNES, To a LORD of His Ma<hi rend="sup">ties</hi> Privie Counſale in both Kingdomes, From <hi>Madrid,</hi> the 5 of Apryle ſtilo veteri 1623.</p>
+            <p>
+               <hi>EDINBVRGH,</hi> Printed by THOMAS FINLASON, His M. Printer. 1623.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:24015:2"/>
+            <pb facs="tcp:24015:2"/>
+            <opener>
+               <salute>MY LORD.</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">G</seg>OE where I will, I can no moir flee from your kynd<g ref="char:EOLhyphen"/>neſſe then my owne ſhad<g ref="char:EOLhyphen"/>dow. It hath quicklie over taken mee in <hi>Spaine,</hi> and from <hi>Spaine</hi> I ſend you bak all the thanks that ane honeſt hart can think.</p>
+            <p>For that Wee doe heere, that your L. may know it from a ſeeing witneſſe, and from you, all <hi>Scotland,</hi> thogh I haue no Co<g ref="char:cmbAbbrStroke">̄</g>miſſion but the libertie of telling trueth. The <hi>Prince</hi> came thr<g ref="char:EOLunhyphen"/>ough <hi>France,</hi> and to this Court Poſt, without a fall or any other harme; Went into the <hi>french</hi> Kings Cabinet and ſaw him, the Queene, and Monsieur and Madame, and the Queene Mo<g ref="char:EOLhyphen"/>ther and moſt of the Court, without beeing knowne of any, and ſo come hither to this Court the firſt advertiſer, and was in the Ambaſſadors houſe before hee could beleeve it.</p>
+            <p>What acts of a ſtrong and able man hee did by the way, is a Storie not to be matched, and behaves himſelfe ſo weel heere as cannot be told; <gap reason="missing" extent="1+ pages">
+                  <desc>〈1… pages missing〉</desc>
+               </gap>
+               <pb facs="tcp:24015:3"/>And when it ſhall pleaſe GOD he comes home in ſafetie, will deſerve to bee received by all his Fathers Subjects lyk a bleſſing ſent from heaven. For there was never in any Prince of his Race, more Religion, underſtanding and good Na<g ref="char:EOLhyphen"/>ture, honeſtie and Activeneſſe, the LORD croune all with his long lyfe, and then is Our Yle happie.</p>
+            <p>Hee was received with all the honour that could bee done to any mortall man. The King made him ane Entrie as great as hee had beene Emperour. Gives him alwayes the place, and the right hand; And hath him Iudged in his Pa<g ref="char:EOLhyphen"/>lace, as hee were at Sainct <hi>James.</hi> For though it was in their <hi>Lent.</hi> when they exerciſe the ſttrai<g ref="char:EOLhyphen"/>teſt manner of the <hi>Catholique</hi> Religion, Hee and His, had more libertie than they would vſe; There was neuer anie, (not of the Romane reli<g ref="char:EOLhyphen"/>gion) Iudged in the Palace before. The King and all his Court ſtudying how to deviſe plea<g ref="char:EOLhyphen"/>ſure for Him, opponed the order of the <hi>Prag<g ref="char:EOLhyphen"/>matique,</hi> which did forebid all braverie eſpecially in <hi>Lent.</hi> Reſigning all Donations and Regall power to Him; Commanded all the Preſidents and Judges and Gouernours to take their di<g ref="char:EOLhyphen"/>rection from Him, all requeiſtes preſented to Him. What Hee would doe was done, though
+<pb facs="tcp:24015:3"/>in His wiſedome Hee would doe nothing but by the Kings Miniſters, and their Cuſtomes; All Priſons opened, all priſoners ſet at libertie, and they that were in for debt, the King fred them, and payed the debtes. In a word all was done, and is doing euery day, that could ſhow howe ſenſible the King is of the honour Hee had done of ſo truſting His Perſon in his Majeſties ha<g ref="char:cmbAbbrStroke">̄</g>ds. For the buſineſſe, it muſt goe on according to the pace, that their duetie to Sea of <hi>Rome,</hi> will permit, but for their owne affection they are deſirous of the Match as we can wiſh them. The King and his Brother vſe Him as Hee were their Fathers Sonne, and as their eldeſt Brother.</p>
+            <p>The <hi>Jnfanta</hi> is a Ladie to pleaſe any Eye, if Shee were but a meane Gentle-woman, come<g ref="char:EOLhyphen"/>lie and well fauoured, of ſtature: tale as moſt Women heere, and in any Countrie; Health<g ref="char:EOLhyphen"/>full and likelie to bee a Child-bearer; Better fa<g ref="char:EOLhyphen"/>uoured than any either Picture or report made Her; And as Her Siſter is in <hi>France,</hi> the hand<g ref="char:EOLhyphen"/>ſomeſt Woman of the Court, ſo is the <hi>Jufanta</hi> MARIA in this, (ſo is Shee named.) And for goodneſſe, God onely knowes the heart; But for good report, no Woman vnder Hea<g ref="char:EOLhyphen"/>uen hath a better; And for breading none ſo good, ſauing in that which wee are not to con<g ref="char:EOLhyphen"/>ſider
+<pb facs="tcp:24015:4"/>now, but leaue it to God; Religon, where<g ref="char:EOLhyphen"/>in Shee is ſo deuote and charitable, that I pray GOD theſe of our opinion may imitate Her. You may thinke that I am ſo turned <hi>Spaniſh,</hi> that I am onely ſet to praiſe, in conſcience I ſpeake within compaſſe, and am juſt the man without corruption, you euer tooke mee to bee, and by the grace of God, ſhall ſo cume home, and ſo die. But I write this for your information and ſatisfaction of ſuch of my Friendes, as your L. pleaſeth to impart it to, from on they haue no cauſe to diſtruſt. Tell it to whom you will, and giue mee for Author; And let mee intreate them all to thanke God, that ſince our Maſters Mari<g ref="char:EOLhyphen"/>age was confyned in ſo narrow a circle, ſo few to chooſe of His equales, that Hee is likely to haue one that there is ſo much good in by all appea<g ref="char:EOLhyphen"/>rance, both of outſide and inſide; And let vs all joyne in heartie prayer, that wee bee not decei<g ref="char:EOLhyphen"/>ued; but that God may bleſſe all to His Glory to the well of His Church, and of our Maſter and His Subjects. And if your L. would know fur<g ref="char:EOLhyphen"/>ther to judge Her by her Parents, the King Her Father was a ſincere good man, and for Her Mother Shee was the matchleſſeſt Princeſſe of Her time, eſpeciallie for wiſedome, goodneſie, and health, Shee died in Child-birth; And all Her children bee full and ſtrong. The King
+<pb facs="tcp:24015:4"/>is taler than Our Prince, ſtrong and nervouſe well fauoured, and well ſpoken, and likelie to b<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e a braue active King.</p>
+            <p>Don <hi>Carlos</hi> is a little browner complectio<g ref="char:EOLhyphen"/>ned, but a luſtie wiſe-like young Prince; And the Cardinall <hi>Don Fernando</hi> the youngeſt is the fineſt, quickeſt, loulieſt Youth that can bee ſeene if Hee had nothing to recommend him but His hap and godlineſſe. Now let God doe what Hee will, thoſe bee good tokens. The Prince keepes His health ſtronglie, and if God, put end to all before the heates come on, this journey will turne to joye to vs all; And praiſe to the breaſt it bred in, and all the actors, which that it may bee, God grant if it bee his bleſſed will, And ſo I end for a long tim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and if it be till I come to <hi>England,</hi> you will not blame me after all this.</p>
+            <closer>
+               <signed>Your L. most louing Seruant.</signed>
+               <dateline>Madrid, <date>the 5. of <hi>Aprill.</hi> 1623.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>If your L. had ſeene with what a braue manner His Highneſſe acquite Himſelfe, the firſt time Hee ſaw His Miſtriſſe, it would haue done your heart good. The famouſeſt Courtier or Woer in <hi>France</hi> would not haue acted it more galla<g ref="char:cmbAbbrStroke">̄</g>tly. Hee neuer did any thing ſo well, not run at Tilt. in which Hee is Maſter.</p>
+            </postscript>
+         </div>
+      </body>
+   </text>
+</TEI>
